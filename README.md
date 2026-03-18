@@ -1,7 +1,6 @@
 # Live Puzzle Game
 
-## Dev/Creator
-**tubakhxn**
+
 
 ## About This Project
 This project is a real-time puzzle game that uses your webcam and hand tracking to let you play a sliding puzzle with your own live image. It combines computer vision (OpenCV), hand detection (MediaPipe), and a fun interactive UI.
@@ -15,8 +14,3 @@ This project is a real-time puzzle game that uses your webcam and hand tracking 
 Great for demos, computer vision learning, and just having fun with AI and puzzles.
 
 ---
-
-**How it works:**
-- Python: powers the logic and game flow
-- OpenCV: handles the webcam and image processing
-- MediaPipe: tracks your hands for gesture control
