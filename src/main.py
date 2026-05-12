@@ -9,6 +9,7 @@ import mediapipe as mp
 from puzzle_ui import PuzzleUI
 
 import mediapipe as mp
+
 # --- MediaPipe Hand Detection (v0.10.x+ fallback) ---
 
 def detect_hands_mediapipe(frame):
