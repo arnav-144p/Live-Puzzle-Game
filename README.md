@@ -3,6 +3,7 @@
 
 
 ## About This Project
+
 This project is a real-time puzzle game that uses your webcam and hand tracking to let you play a sliding puzzle with your own live image. It combines computer vision (OpenCV), hand detection (MediaPipe), and a fun interactive UI.
 
 - **How it works:**
